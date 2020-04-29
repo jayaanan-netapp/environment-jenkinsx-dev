@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/jayaanandborra/angular-jenkins-x.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jayaanandborra
+  repo: spring-boot-http-gradle
+  url: https://github.com/jayaanandborra/spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
