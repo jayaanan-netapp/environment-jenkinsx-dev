@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jayaanandborra
+    provider: github
+    repository: nwf-jenkinsx
+  name: jayaanandborra-nwf-jenkinsx
+spec:
+  description: Imported application for jayaanandborra/nwf-jenkinsx
+  httpCloneURL: https://github.com/jayaanandborra/nwf-jenkinsx.git
+  org: jayaanandborra
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: nwf-jenkinsx
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jayaanandborra/nwf-jenkinsx.git
