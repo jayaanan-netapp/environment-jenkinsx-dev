@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jayaanandborra
+  repo: angular-jenkins-x
+  url: https://github.com/jayaanandborra/angular-jenkins-x.git
+  version: ""
+  versionURL: ""
