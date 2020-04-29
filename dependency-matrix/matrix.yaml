@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/jayaanandborra/spring-boot-http-gradle.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jayaanandborra
+  repo: nwf-jenkinsx
+  url: https://github.com/jayaanandborra/nwf-jenkinsx.git
+  version: ""
+  versionURL: ""
